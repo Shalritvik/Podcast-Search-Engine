@@ -1,0 +1,692 @@
+[
+    {
+        "start": 0.0,
+        "end": 9.6,
+        "text": " So, I'm from Guatemala. This is a public service announcement that is word"
+    },
+    {
+        "start": 9.6,
+        "end": 16.240000000000002,
+        "text": " Guatemala is. Also, that is not where they keep the prisoners that is called"
+    },
+    {
+        "start": 16.240000000000002,
+        "end": 23.12,
+        "text": " Guantanamo. Not the same place. So, Guatemala is right below Mexico and for the"
+    },
+    {
+        "start": 23.12,
+        "end": 26.48,
+        "text": " Americans in the audience, I'm not the sink-in because it really applies in most"
+    },
+    {
+        "start": 26.48,
+        "end": 32.64,
+        "text": " ways. For the Americans in the audience, you can think of it as Mexico's Mexico."
+    },
+    {
+        "start": 33.28,
+        "end": 37.6,
+        "text": " Just like the US doesn't want illegal immigration from Mexico, Mexico doesn't want"
+    },
+    {
+        "start": 37.6,
+        "end": 42.879999999999995,
+        "text": " illegal immigration from Guatemala. It's a smaller country. It's a poorer country."
+    },
+    {
+        "start": 42.879999999999995,
+        "end": 49.2,
+        "text": " And well, what can I tell you? It has much better Mexican food."
+    },
+    {
+        "start": 49.92,
+        "end": 56.24,
+        "text": " Guatemala is a very poor country. And a lot of people talk about education as"
+    },
+    {
+        "start": 56.24,
+        "end": 60.32000000000001,
+        "text": " something that brings equality to different social classes. But I always saw it as the opposite,"
+    },
+    {
+        "start": 60.32000000000001,
+        "end": 64.4,
+        "text": " as something that brings inequality. Because what happens in practice is that people who have a"
+    },
+    {
+        "start": 64.4,
+        "end": 68.56,
+        "text": " lot of money and buy themselves a really good education and therefore continue having a lot of"
+    },
+    {
+        "start": 68.56,
+        "end": 72.72,
+        "text": " money. Whereas people who don't have very much money, barely learn how to read and write."
+    },
+    {
+        "start": 72.72,
+        "end": 76.24000000000001,
+        "text": " And therefore, never make a lot of money and this is especially true in poor countries."
+    },
+    {
+        "start": 77.11999999999999,
+        "end": 82.8,
+        "text": " Now, I was fortunate that I received a rich person's education, even though I didn't grow up rich."
+    },
+    {
+        "start": 83.44,
+        "end": 87.28,
+        "text": " And it's because I'm an only child. And my mother, who was a single mother,"
+    },
+    {
+        "start": 87.28,
+        "end": 93.67999999999999,
+        "text": " spent all of her resources on my education. And this allowed me to come to college to the US and"
+    },
+    {
+        "start": 93.67999999999999,
+        "end": 101.03999999999999,
+        "text": " eventually get a PhD in computer science. Now, because of all of this, about 10 years ago,"
+    },
+    {
+        "start": 101.03999999999999,
+        "end": 105.28,
+        "text": " I decided I wanted to do something that would give equal access to education to everyone."
+    },
+    {
+        "start": 106.0,
+        "end": 109.84,
+        "text": " Oh, by the way, this is what I want to talk to you about today, giving equal access to education"
+    },
+    {
+        "start": 109.84,
+        "end": 115.2,
+        "text": " to everyone. At the time, I was a professor of computer science at Carnegie Mellon University."
+    },
+    {
+        "start": 115.92,
+        "end": 119.92,
+        "text": " And I decided to work on this with my PhD student, Severin."
+    },
+    {
+        "start": 121.04,
+        "end": 124.88,
+        "text": " The way my brain works, all of education is just too general of a problem."
+    },
+    {
+        "start": 125.52000000000001,
+        "end": 130.16,
+        "text": " So I decided, let's start by teaching one thing. And then I started thinking, okay, well,"
+    },
+    {
+        "start": 130.16,
+        "end": 135.04,
+        "text": " what should we teach first? Should we teach math? I mean, we both love math. Me and my co-founder,"
+    },
+    {
+        "start": 135.04,
+        "end": 141.2,
+        "text": " we both love math. And we didn't decide to do math. Then we started thinking, well, maybe we should"
+    },
+    {
+        "start": 141.2,
+        "end": 146.64,
+        "text": " teach computer science. But eventually, and this is maybe surprising to people in North America,"
+    },
+    {
+        "start": 146.64,
+        "end": 150.96,
+        "text": " eventually we decided that the best subject to start with was teaching foreign languages."
+    },
+    {
+        "start": 151.84,
+        "end": 157.68,
+        "text": " And let me tell you why. There's a number of reasons. One of them is that there's a huge audience for it."
+    },
+    {
+        "start": 157.68,
+        "end": 161.92000000000002,
+        "text": " There's about two billion people in the world learning a foreign language, both in school and"
+    },
+    {
+        "start": 161.92000000000002,
+        "end": 166.32,
+        "text": " outside of schools. Most of these people, by the way, are learning English. About 80% of them"
+    },
+    {
+        "start": 166.32,
+        "end": 170.64000000000001,
+        "text": " are learning English. In this weird map right here, all the countries in green are countries"
+    },
+    {
+        "start": 170.64000000000001,
+        "end": 175.68,
+        "text": " in which people are predominantly learning English. And the reason for that is because English"
+    },
+    {
+        "start": 175.68,
+        "end": 179.92000000000002,
+        "text": " can truly transform your life. In most countries in the world, knowledge of English can significantly"
+    },
+    {
+        "start": 179.92000000000002,
+        "end": 184.64000000000001,
+        "text": " increase your income potential. So this is another reason why we decided to start with foreign"
+    },
+    {
+        "start": 184.64,
+        "end": 189.27999999999997,
+        "text": " languages. Because we can directly make more money if you learn another language in particular"
+    },
+    {
+        "start": 189.27999999999997,
+        "end": 192.72,
+        "text": " English. And see, this is pretty different than many other subjects. For example, take math."
+    },
+    {
+        "start": 193.35999999999999,
+        "end": 197.44,
+        "text": " And the guess of math, just knowledge of math does not increase your income potential."
+    },
+    {
+        "start": 197.44,
+        "end": 202.0,
+        "text": " Because usually you have to learn math to then learn physics to then become a civil engineer."
+    },
+    {
+        "start": 202.0,
+        "end": 207.11999999999998,
+        "text": " Like that's how you make more money. Whereas with languages, if you were a waiter and you learn"
+    },
+    {
+        "start": 207.11999999999998,
+        "end": 212.64,
+        "text": " English, now you can be a waiter at a hotel and make more money. So we decided, well, let's get"
+    },
+    {
+        "start": 212.64,
+        "end": 219.6,
+        "text": " started by teaching languages. Now, we also convinced ourselves that the only way to really reach a lot"
+    },
+    {
+        "start": 219.6,
+        "end": 225.35999999999999,
+        "text": " of people was by using a mobile phone or a smartphone in particular. See, building schools all over"
+    },
+    {
+        "start": 225.35999999999999,
+        "end": 230.64,
+        "text": " the world is simple to expensive. On the other hand, most of the world's population already has"
+    },
+    {
+        "start": 230.64,
+        "end": 236.16,
+        "text": " access to a smartphone. And the trend is that that fraction is only going to increase. So we decided"
+    },
+    {
+        "start": 236.16,
+        "end": 241.51999999999998,
+        "text": " at the time that we would make a way to learn foreign languages on a mobile phone that was accessible"
+    },
+    {
+        "start": 241.68,
+        "end": 252.4,
+        "text": " to everyone. And then we called it Duelingo. Now, in order to truly be accessible to everyone,"
+    },
+    {
+        "start": 252.4,
+        "end": 257.52,
+        "text": " rich and poor, Duelingo uses a freemium model to support itself. What that means is that"
+    },
+    {
+        "start": 258.16,
+        "end": 263.6,
+        "text": " you can learn as much as you want without ever having to pay. But if you don't pay, you may have"
+    },
+    {
+        "start": 263.6,
+        "end": 268.24,
+        "text": " to see an ad at the end of a lesson. Now, if you don't like ads, you can also pay to subscribe to"
+    },
+    {
+        "start": 268.24,
+        "end": 273.84000000000003,
+        "text": " Turn Of The Ads. And it turns out that the vast majority of the revenue for Duelingo comes from"
+    },
+    {
+        "start": 273.84000000000003,
+        "end": 280.16,
+        "text": " people to pay to subscribe to Turn Of The Ads. Now, who are these people who pay to subscribe to"
+    },
+    {
+        "start": 280.16,
+        "end": 286.56,
+        "text": " Turn Of The Ads? Well, they're usually people, well off people, in rich countries like the US and"
+    },
+    {
+        "start": 286.56,
+        "end": 291.44,
+        "text": " Canada, who are the people who don't pay to subscribe. They usually come from poorer countries like"
+    },
+    {
+        "start": 291.44,
+        "end": 296.96000000000004,
+        "text": " Brazil or Vietnam or Guatemala. So what I like about this model is that it is a small form of"
+    },
+    {
+        "start": 296.96,
+        "end": 301.52,
+        "text": " well-redistribution because we're basically getting rich people to pay for the education of everyone."
+    },
+    {
+        "start": 301.52,
+        "end": 309.76,
+        "text": " So I like that. Yes. It's a great. So with smartphones, we can reach a lot of people and we can"
+    },
+    {
+        "start": 309.76,
+        "end": 314.64,
+        "text": " even get the rich people to pay for the whole thing. It's a great. However, if you're trying to"
+    },
+    {
+        "start": 314.64,
+        "end": 319.59999999999997,
+        "text": " deliver education with a smartphone, you run into a humongous problem. And it is that smartphones"
+    },
+    {
+        "start": 319.59999999999997,
+        "end": 325.28,
+        "text": " come equipped with some of the most addictive drugs that humanity has ever engineered. TikTok,"
+    },
+    {
+        "start": 325.28,
+        "end": 330.71999999999997,
+        "text": " Instagram, mobile games. See, delivering education over a smartphone is like hoping that people"
+    },
+    {
+        "start": 330.71999999999997,
+        "end": 334.79999999999995,
+        "text": " will eat their broccoli. But right next to it, you put the most delicious dessert ever made."
+    },
+    {
+        "start": 338.0,
+        "end": 342.15999999999997,
+        "text": " If you really want to deliver education to everyone, not only do you have to make it accessible,"
+    },
+    {
+        "start": 342.15999999999997,
+        "end": 347.52,
+        "text": " but also you have to make it so that people want to actually learn. And with Duelingo, we've been"
+    },
+    {
+        "start": 347.52,
+        "end": 353.28,
+        "text": " able to do this. And at the highest level, the way we've done this is by making the broccoli taste"
+    },
+    {
+        "start": 353.28,
+        "end": 358.55999999999995,
+        "text": " like dessert. I'll say it another way. What we've done is that we've used the same psychological"
+    },
+    {
+        "start": 358.55999999999995,
+        "end": 365.59999999999997,
+        "text": " techniques that apps like Instagram, TikTok or mobile games used to keep people engaged. But in this"
+    },
+    {
+        "start": 365.59999999999997,
+        "end": 370.71999999999997,
+        "text": " case, we used them to keep people engaged with education. Let me give you some examples of these"
+    },
+    {
+        "start": 370.71999999999997,
+        "end": 375.44,
+        "text": " techniques. One of the most powerful ones is the notion of a streak. What a streak is, is it's just"
+    },
+    {
+        "start": 376.0,
+        "end": 381.59999999999997,
+        "text": " a counter that measures the number of days that you've used the product consecutively. You just"
+    },
+    {
+        "start": 381.6,
+        "end": 386.40000000000003,
+        "text": " take that number. You put it very prominently in your product and then people come back every day."
+    },
+    {
+        "start": 386.96000000000004,
+        "end": 392.16,
+        "text": " And the reason people come back every day is because, well, if they don't come back, that number"
+    },
+    {
+        "start": 392.16,
+        "end": 398.72,
+        "text": " resets to zero and people don't want to lose the streak. It works. Now, on the one side,"
+    },
+    {
+        "start": 398.72,
+        "end": 405.28000000000003,
+        "text": " streaks have been criticized for, for example, getting teens addicted to Snapchat. But in the case"
+    },
+    {
+        "start": 405.28000000000003,
+        "end": 411.12,
+        "text": " of an educational app, streaks get people to come back to study every day. Now, to give you an idea"
+    },
+    {
+        "start": 411.12,
+        "end": 415.68,
+        "text": " of the power of streaks, in the case of Duolingo, we have over 3 million daily active uses that have"
+    },
+    {
+        "start": 415.68,
+        "end": 426.08,
+        "text": " a streak longer than 365. That means they haven't missed the day in the last year or longer. Now,"
+    },
+    {
+        "start": 426.08,
+        "end": 432.4,
+        "text": " fun fact about streaks, what country do you think has the longest average streaks for an educational"
+    },
+    {
+        "start": 432.4,
+        "end": 444.0,
+        "text": " app? It's Japan. Of course. Shortest average streaks? Latin America, baby. But we're fun. Okay, we're"
+    },
+    {
+        "start": 444.0,
+        "end": 451.44,
+        "text": " fun. Another important mechanism to get people to come back to your product are notifications."
+    },
+    {
+        "start": 451.44,
+        "end": 455.28,
+        "text": " On the one side, notifications can be really spammy and annoying. But in the case of an educational"
+    },
+    {
+        "start": 455.28,
+        "end": 460.08,
+        "text": " product, people actually want to be reminded to learn. In the case of Duolingo, we have a very"
+    },
+    {
+        "start": 460.08,
+        "end": 467.2,
+        "text": " sophisticated AI system that basically chooses when to send the notification and also what to say"
+    },
+    {
+        "start": 467.2,
+        "end": 473.59999999999997,
+        "text": " in each notification to maximize the probability that people come back. Now, interestingly, even after"
+    },
+    {
+        "start": 473.59999999999997,
+        "end": 477.91999999999996,
+        "text": " all this sophistication, it turns out that the algorithm for choosing what time to send you a"
+    },
+    {
+        "start": 477.91999999999996,
+        "end": 482.79999999999995,
+        "text": " notification is pretty simple. You know what is the best time to send people a notification? I'll"
+    },
+    {
+        "start": 482.79999999999995,
+        "end": 488.64,
+        "text": " tell you. It's 24 hours after they use the product last. Because there's an easy explanation. If you"
+    },
+    {
+        "start": 488.64,
+        "end": 494.47999999999996,
+        "text": " were free yesterday at 3pm, you're probably free today at 3pm as well. So this is what a very"
+    },
+    {
+        "start": 494.47999999999996,
+        "end": 502.88,
+        "text": " sophisticated millions of dollars of AI found. It's funny. Now, with notifications, you shouldn't be"
+    },
+    {
+        "start": 502.88,
+        "end": 507.12,
+        "text": " spamming. And we're not spamming. We do a link. We actually stop sending notifications after seven"
+    },
+    {
+        "start": 507.12,
+        "end": 511.44,
+        "text": " days of inactivity. So if you don't use Duolingo for seven days, we stop sending notifications."
+    },
+    {
+        "start": 511.44,
+        "end": 515.4399999999999,
+        "text": " Now at some point, it occurred to us, if we're stopping the same people notifications, we should"
+    },
+    {
+        "start": 515.44,
+        "end": 520.96,
+        "text": " let them know. So we started sending this notification to people saying, hey, these reminders don't"
+    },
+    {
+        "start": 520.96,
+        "end": 524.8000000000001,
+        "text": " seem to be working. We'll stop sending them for now. You know what people do when they get this"
+    },
+    {
+        "start": 524.8000000000001,
+        "end": 536.0,
+        "text": " notification? They come back. Passive aggressive. Works for my mother. Works for Duolingo."
+    },
+    {
+        "start": 536.96,
+        "end": 546.24,
+        "text": " This passive aggressive notifications are really good at getting people to come back because they"
+    },
+    {
+        "start": 546.24,
+        "end": 551.68,
+        "text": " feel like our green owl mascot has given up on them. So they come back and speaking of our green owl"
+    },
+    {
+        "start": 551.68,
+        "end": 555.76,
+        "text": " mascot, by the way, because all our notifications come from our green owl mascot and well, he's passive"
+    },
+    {
+        "start": 555.76,
+        "end": 561.6,
+        "text": " aggressive and also pretty pushy. This is given rise to a lot of memes on the internet that make fun of"
+    },
+    {
+        "start": 561.6,
+        "end": 567.12,
+        "text": " just the great lengths that he will go through to get you back to learn a language. Here's one of"
+    },
+    {
+        "start": 567.12,
+        "end": 573.44,
+        "text": " my favorite ones. This is it's a meme. It's one of my favorite ones. It's basically, it looks like"
+    },
+    {
+        "start": 573.44,
+        "end": 577.44,
+        "text": " you forgot your Spanish lessons and then there's an intruder learned, presumably the owl"
+    },
+    {
+        "start": 578.16,
+        "end": 583.6800000000001,
+        "text": " broken to your house to get your learn language. Now, Duolingo has entered the site guist and there's"
+    },
+    {
+        "start": 583.6800000000001,
+        "end": 589.84,
+        "text": " thousands of memes. There's SNL skits about it and it's because we've managed to get people to"
+    },
+    {
+        "start": 589.84,
+        "end": 596.0,
+        "text": " want to learn a language by using the same techniques that mobile games and social media use to"
+    },
+    {
+        "start": 596.0,
+        "end": 603.2800000000001,
+        "text": " get people engaged. And this is a really important point, let me say this. I don't actually believe"
+    },
+    {
+        "start": 603.2800000000001,
+        "end": 609.12,
+        "text": " that there's a way to make an educational app be as engaging as something like TikTok or Instagram"
+    },
+    {
+        "start": 609.12,
+        "end": 614.32,
+        "text": " or mobile games. But the good news is that, and by the way, the reason I don't believe that is"
+    },
+    {
+        "start": 614.32,
+        "end": 618.1600000000001,
+        "text": " because ultimately you have to teach people something and it's hard to compete with cats and"
+    },
+    {
+        "start": 618.16,
+        "end": 623.8399999999999,
+        "text": " celebrities. But the good news is that I don't think you have to. See, here's the thing, when you're"
+    },
+    {
+        "start": 623.8399999999999,
+        "end": 628.3199999999999,
+        "text": " learning something you get meaning out of it. Whereas when you're scrolling for two hours on"
+    },
+    {
+        "start": 628.3199999999999,
+        "end": 633.68,
+        "text": " Instagram, a lot of times afterwards, you feel like you just wasted your time. So I think it's actually"
+    },
+    {
+        "start": 633.68,
+        "end": 640.24,
+        "text": " okay if your educational product is only 80 or 90% as engaging as something like TikTok because"
+    },
+    {
+        "start": 640.24,
+        "end": 644.9599999999999,
+        "text": " the other 10 or 20% will be provided by people's internal motivation, though of course, not much"
+    },
+    {
+        "start": 645.0400000000001,
+        "end": 650.96,
+        "text": " more than that. This is really a key point. If we want to get people to do something meaningful,"
+    },
+    {
+        "start": 650.96,
+        "end": 656.72,
+        "text": " you can use the same techniques that apps like social media use to get people to do it. And even if"
+    },
+    {
+        "start": 656.72,
+        "end": 661.52,
+        "text": " you're not as engaging as those apps are, you can still get hundreds of millions of people to use"
+    },
+    {
+        "start": 661.52,
+        "end": 667.12,
+        "text": " your product. In the case of Duolingo, for example, there are more people learning languages on Duolingo"
+    },
+    {
+        "start": 667.12,
+        "end": 671.12,
+        "text": " in the United States than there are people learning languages across all US high schools combined."
+    },
+    {
+        "start": 671.36,
+        "end": 680.64,
+        "text": " And this is true in most countries in the world. My hope is that I know we can do this, but my"
+    },
+    {
+        "start": 680.64,
+        "end": 684.96,
+        "text": " hope is that as humanity, we can do what Duolingo has done for learning languages, but for all of"
+    },
+    {
+        "start": 684.96,
+        "end": 690.96,
+        "text": " the subjects where we can get people to learn math with mobile phones, like millions of people to"
+    },
+    {
+        "start": 690.96,
+        "end": 695.92,
+        "text": " learn math with mobile phones or physics or whatever. I hope for a future in which"
+    },
+    {
+        "start": 696.0799999999999,
+        "end": 701.12,
+        "text": " screen time is not a bad thing in which we can deliver high quality education to everyone,"
+    },
+    {
+        "start": 701.12,
+        "end": 706.4799999999999,
+        "text": " richer poor using a mobile phone. But the single most important thing that I can end this talk with"
+    },
+    {
+        "start": 707.68,
+        "end": 714.24,
+        "text": " is a reminder to please, pretty please, I beg you, to your language lessons today. Thank you very"
+    },
+    {
+        "start": 714.24,
+        "end": 725.44,
+        "text": " much. Thank you."
+    },
+    {
+        "start": 725.44,
+        "end": 730.0,
+        "text": " Louise, thank you so much. Thank you. I wonder if you can just say a little bit more about that"
+    },
+    {
+        "start": 730.0,
+        "end": 736.08,
+        "text": " last point about how do you how do you think that you can apply this type of thinking to other"
+    },
+    {
+        "start": 736.08,
+        "end": 739.6,
+        "text": " subjects? So you mentioned math, you mentioned things like that. How do you do that?"
+    },
+    {
+        "start": 740.24,
+        "end": 744.8000000000001,
+        "text": " Yeah, I think in particular subjects that are learned through repetition, and it turns out most"
+    },
+    {
+        "start": 744.8000000000001,
+        "end": 748.96,
+        "text": " things that are really meaningful to learn through thousands of thousands of repetitions, you learn to"
+    },
+    {
+        "start": 748.96,
+        "end": 753.6,
+        "text": " read through repetition, you learn elementary school math through repetition, most things that you can"
+    },
+    {
+        "start": 753.6,
+        "end": 757.52,
+        "text": " learn through repetition, you can actually gamify and turn into something like Duolingo where people"
+    },
+    {
+        "start": 757.52,
+        "end": 762.8000000000001,
+        "text": " just do it a lot and do it fun. It's a little harder for things like explanations, that's probably"
+    },
+    {
+        "start": 762.8000000000001,
+        "end": 767.12,
+        "text": " going to require some really good videos. Salcan is doing a really good job with that, but for things"
+    },
+    {
+        "start": 767.12,
+        "end": 771.12,
+        "text": " that require a lot of repetition, I think we can use the same methods. Amazing, thank you so much for"
+    },
+    {
+        "start": 771.12,
+        "end": 774.08,
+        "text": " sharing. Thank you."
+    }
+]
