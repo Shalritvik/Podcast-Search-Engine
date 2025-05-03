@@ -20,7 +20,7 @@ Podcast Explorer is a web-based tool that allows users to search for specific co
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/podcast-explorer.git
+    git clone https://github.com/Shalritvik/podcast-explorer.git
     cd podcast-explorer
     ```
 
